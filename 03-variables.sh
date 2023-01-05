@@ -11,3 +11,7 @@ echo my class is - ${class}
 DATE=$(date +%F)
 echo hey, todays date is $DATE
 
+## arithmatic
+
+add=$((2+3))
+echo addition is = $add
