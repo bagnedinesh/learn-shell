@@ -7,7 +7,7 @@ variables
 functions
 conditions
 loops
-exitstatus
+exit status
 inputs
 quotes
 SED Editors
