@@ -11,3 +11,4 @@ exit status
 inputs
 quotes
 SED Editors
+Redirectors
