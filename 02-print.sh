@@ -4,7 +4,7 @@ echo 'All Special chars - !@#$%^&*()_+/?><'
 
 echo "All Special chars - !@#$%^&*()_+/?><"
 
-echo $Dinesh !@#$%^&*()_+/?><
+#echo $Dinesh !@#$%^&*()_+/?><
 
 echo -e "\e[31mMESSAGE\e[0m" # Red
 echo -e "\e[32mMESSAGE\e[0m" # Green
