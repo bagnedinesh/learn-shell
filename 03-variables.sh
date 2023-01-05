@@ -5,6 +5,9 @@ name=dinesh
 class=devops
 
 echo my name is - $name
-echo my class is - $(class)
+echo my class is - ${class}
 
+##date
+DATE=$(date +%F)
+echo hey, todays date is $DATE
 
