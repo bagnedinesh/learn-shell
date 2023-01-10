@@ -19,4 +19,4 @@ example(){
   echo "# - $#"
 }
 echo Following are the values from function
-example
+example 09 test 05
